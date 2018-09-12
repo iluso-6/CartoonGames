@@ -1,6 +1,6 @@
 # Kids Game Application made with Corona SDK 
 
-***Storyboard module is included as it's no longer supported*** (early development circa 2013)
+***Storyboard module is included as it's no longer supported*** (early development app circa 2013)
 
 Video Demo: https://youtu.be/MEPVQqLMDY8 
 
