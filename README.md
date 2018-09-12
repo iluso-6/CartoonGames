@@ -1,5 +1,8 @@
-# CartoonGames
+# Legacy Game Application made with Corona SDK 
 
+***Storyboard module is included as it's no longer supported*** (early development circa 2013)
+
+Video available: https://youtu.be/MEPVQqLMDY8 
 
 <table>
 		<th colspan="3">Home and Menu Activities</th>
