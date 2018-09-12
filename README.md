@@ -6,7 +6,7 @@
   <tr>
     <td><img src="https://github.com/iluso-6/CartoonGames/blob/master/screenshots/first.png?raw=true" align="left"/></td>
     <td width="33%"></td>
-    <td> <https://github.com/iluso-6/CartoonGames/blob/master/screenshots/first.png?raw=true" align="right"/>
+    <td> <img src="https://github.com/iluso-6/CartoonGames/blob/master/screenshots/first.png?raw=true" align="right"/>
     </td>
 
 <br><br>
