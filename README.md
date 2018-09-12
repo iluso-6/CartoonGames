@@ -1,4 +1,4 @@
-# Legacy Game Application made with Corona SDK 
+# Kids Game Application made with Corona SDK 
 
 ***Storyboard module is included as it's no longer supported*** (early development circa 2013)
 
