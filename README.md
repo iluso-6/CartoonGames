@@ -4,7 +4,7 @@
 
 Video Demo: https://youtu.be/MEPVQqLMDY8 
 
- ![alt tag](https://github.com/iluso-6/CodeBreaker/blob/master/video.gif?raw=true)
+ ![alt tag](https://github.com/iluso-6/CartoonGames/blob/master/screenshots/twinkle.gif?raw=true)
 
 <table>
 		<th colspan="3">Home and Menu Activities</th>
